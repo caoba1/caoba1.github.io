@@ -1,4 +1,5 @@
-{% include image.html file="logo_plain.png" url="http://sinpantuflas.github.com" alt="cdop_" caption="A collection of my notes" %}
+
+![A collection of my notes]({{ site.baseurl }}/logo-plain.png "_")
 A collection of my notes.
 
 ### Welcome!
