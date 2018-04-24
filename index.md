@@ -1,5 +1,5 @@
 
-![A collection of my notes]({{ site.baseurl }}/logo-plain.png "_")
+![A collection of my notes]({{ sinpantuflas.github.io }}/logo-plain.png "_")
 A collection of my notes.
 
 ### Welcome!
