@@ -4,5 +4,7 @@ google_analytics:
 show_downloads: true
 theme: jekyll-theme-minimal
 
+{% include image.html file="logo_plain.png" url="http://sinpantuflas.github.com" alt="cdop_" caption="A collection of my notes" %}
+
 gems:
   - jekyll-mentions
