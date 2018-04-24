@@ -1,5 +1,5 @@
 
-![A collection of my notes](sinpantuflas.github.io/logo_plain.png)
+![A collection of my notes](/logo_plain.png)
 A collection of my notes.
 
 ### Welcome!
