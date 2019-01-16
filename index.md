@@ -1,10 +1,8 @@
 
-![A collection of my notes](/logo_plain.png)
-
-A collection of my notes.
+![CDOP](/logo_plain.png| width=200)
 
 ### Welcome!
-This is a marvelous place where snowy days and rainy afternoons are spent crafting and producing new algorithms for signal processing. It can be more crowded, but happy nights are being actually enjoyed outside.
+This is a marvelous place where snowy days and rainy afternoons are spent crafting and producing new algorithms for signal processing.
 
 ### Support or Contact
 Having trouble with any code? Questions about image or audio processing? Check out my [work page](https://www.hsu-hh.de/ant/obaldia) or [contact me](mailto:carlosa@deobaldia.com) and I will be glad to help!
