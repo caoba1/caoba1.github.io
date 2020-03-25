@@ -1,6 +1,4 @@
 
-<img src=/logo_plain.png width="200">
-
 ### Welcome!
 This is a marvelous place where snowy days, rainy afternoons and sunny mornings are spent crafting and producing new algorithms for signal processing.
 
