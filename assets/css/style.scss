@@ -4,6 +4,22 @@
 @import "{{ site.theme }}";
 
 img {
-    max-width:40%;
+    max-width:50%;
     height:auto;
+    float:right;
+}
+
+#navBar {
+  position: fixed;
+  width: 100vw;
+  height: 50px;
+  background-color: #DEDEDE;
+  transition: 0.2s;
+  display: flex;
+}
+
+.floatingNav {
+  width: calc(100vh - 100px); 
+  border-radius: 2px;
+  box-shadow: 0px 1px 10px #999;
 }
