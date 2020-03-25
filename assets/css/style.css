@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-#logo {
+img #logo {
     width:40%;
     height:auto;
 }
