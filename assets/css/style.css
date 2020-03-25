@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 
 #logo {
-    max-width:40%;
+    width:40%;
     height:auto;
 }
