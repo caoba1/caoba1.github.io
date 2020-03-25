@@ -1,8 +1,10 @@
-title: El Changual
-description: Coding around
-google_analytics: 
+title: cdop
+description: A personal web page!
+google_analytics: UA-161851372-1
 show_downloads: true
 theme: jekyll-theme-minimal
+logo: logo_plain.png
+show_downloads: false
 
 gems:
   - jekyll-mentions
