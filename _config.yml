@@ -6,5 +6,5 @@ theme: jekyll-theme-minimal
 logo: logo_plain.png
 show_downloads: false
 
-gems:
+plugins:
   - jekyll-mentions
