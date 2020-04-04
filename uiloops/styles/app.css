@@ -1,0 +1,97 @@
+html {
+	height: 100%;
+	font-family: 'Poppins', cursive;
+	font-size: 12px;
+	background-color: white;
+}
+body {
+    margin-top:100px;
+    margin:auto;
+    max-width: 680px;
+}
+
+.header{
+    top:40px
+    left: 10px;
+    height:100px;
+    width: 60%
+}
+.header p{
+    position:relative;
+    width:100%;
+    margin-left:10px;
+    background-color: teal;
+    color: gray;
+    height: 6px;
+    top: -0.6em;
+    text-align: center;
+}
+.header h1{
+    text-align:center;
+    top:40px;
+    margin-top:60px;
+}
+
+
+.container{
+	width:50%;
+    position:relative;
+    text-align:left;
+    left: 4%;
+    font-size: 14px;
+    background-color:transparent;
+    top: -40px;
+}
+.content {
+    position:relative;
+    text-align:left
+    width: 200px;
+    background-color: transparent;
+}
+
+.alert-box{
+    position:absolute;
+    top: 10%;
+    left: 10%;
+    bottom:auto;
+    right:auto;
+    height:60%;
+    width:60%;
+    padding-left: 10px;
+
+		filter: alpha(opacity=80);
+		opacity: 0.8;
+		-moz-opacity: 0.8;
+
+		background-color: gray;
+		border: 1px solid #333;">
+}
+.alert-button {
+    background-color: black;
+    color: white;
+    display: block;
+    width: 100px;
+    text-align: center;
+
+		/* Place in center (https://www.w3schools.com/css/css_align.asp)*/
+		margin:auto;
+
+		/*margin-top:30%; /*Relative to the height of parent's height*/
+		/* Make it bounce */
+		-webkit-animation:bounce 1s infinite;
+		-moz-animation:bounce 1s infinite;
+}
+@-moz-keyframes bounce {
+	0% {margin-top:30%;}
+	25% {margin-top:26%;}
+	50% {margin-top:30%;}
+	75% {margin-top:28%;}
+	100% {margin-top:30%;}
+}
+@-webkit-keyframes bounce {
+	0% {margin-top:30%;}
+	25% {margin-top:26%;}
+	50% {margin-top:30%;}
+	75% {margin-top:28%;}
+	100% {margin-top:30%;}
+}
