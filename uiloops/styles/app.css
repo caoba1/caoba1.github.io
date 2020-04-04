@@ -51,8 +51,8 @@ body {
 
 .alert-box{
     position:absolute;
-    top: 10%;
-    left: 10%;
+    top: 10px;
+    left: 20%;
     bottom:auto;
     right:auto;
     height:60%;
