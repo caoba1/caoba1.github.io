@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-
+    <link href='https://fonts.googleapis.com/css?family=Poppins|Raleway' rel='stylesheet' type='text/css'>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -15,13 +15,19 @@
     <script src="{{ base.url | prepend: site.url }}/assets/js/app.js"></script>
   </head>
   <body>
-    <div id="navBar"></div>
+    <div id="navBar">
+        {% if site.logo %}
+        <div class="logo-container" id="logoContainter">
+          <img src="{{site.logo | relative_url}}" alt="Logo" id="logo" />
+        </div>
+        {% endif %}
+    </div>
     <div class="wrapper">      
         <header>
          
         {% if site.logo %}
         <div class="img-container">
-          <img src="{{site.logo | relative_url}}" alt="Logo" id="logo" />
+          <!--img src="{{site.logo | relative_url}}" alt="Logo" id="logo" /-->
         </div>
         {% endif %}
 
@@ -55,7 +61,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; orig. theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; based on theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

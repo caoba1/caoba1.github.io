@@ -5,3 +5,5 @@ window.scroll(function() {
         document.getElementById('navBar').removeClass('floatingNav');
     }
 });
+/* Move it! */
+const logo = document.getElementbyId('logoContainer');
