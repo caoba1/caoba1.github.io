@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Welcome!
-This is a marvelous place where snowy days, rainy afternoons and sunny mornings are spent crafting and producing new algorithms for signal processing.
+This is a place where snowy days, rainy afternoons and sunny mornings are spent crafting and producing new algorithms for signal processing.
 
 I am an engineer and researcher in the fields of Digital Signal Processing (DSP), Passive Acoustic Monitoring and Sound Modelling. My interests range from voice conversion and speech analysis to developing algorithms for acoustic ecology and ecological informatics. I am also involved and have several projects in machine learning for sound analysis. As of the moment, I am writing my dissertation in the field of parametric sound modelling. 
 
