@@ -4,15 +4,13 @@ layout: default
 
 ### Welcome!
 
-I am an engineer and researcher in the fields of Digital Signal Processing (DSP), Passive Acoustic Monitoring and Sound Modelling. My interests range from voice conversion and speech analysis to developing algorithms for acoustic ecology and ecological informatics. 
+Solari vitam jubila! Tempore ludix, risus florentis. Luxa splendet, καλή ἡμέρα!
 
-I am also involved and have several projects in machine learning for sound analysis. As of the moment, I am writing my dissertation in the field of parametric sound modelling. 
+Vivamus in hortulis dulcioris, ubi florum cantus cum ventis danzat. Amicitasum ridet sub sole vinoso, et gelata semper bene est. Viae gelatinas Romae festinant sine metu, cum sandalibus levibus. Risus est lingua universum, et saporem olivarum nemo recusat. In vinora veritax, in panis hilaritas, et in formaggium pax. Kairos pulsavit ad picnicum, et omnes portaverunt uvas.
 
-I am currently working as a C++ developer and *open for hire*.
+Ultimora paragrafa saltabit cum gratiā. Dulcissima sunt momenta quae minime speramus. Amor vincit brunchum.
 
 ### Contact
-Interested in having a conversation about a particular topic or project? Don't hesitate to [contact me](mailto:carlosa@deobaldia.com), I will be glad to help! 
-
-Also, if you are interested in current research in DSP check out my [page in my institute's Website](https://www.hsu-hh.de/ant/obaldia).
+Do not hesitate to send me [an email](mailto:myname@provider.com).
 
 
